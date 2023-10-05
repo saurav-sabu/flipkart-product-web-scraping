@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Flipkart is a popular e-commerce platform with a vast catalog of products. Extracting specific product information from Flipkart can be valuable for analysis or other purposes. This Jupyter Notebook addresses the problem of web scraping Flipkart's website to extract essential information about Samsung products.The main objective of this notebook is to demonstrate how to scrape product information from Flipkart for Samsung mobile phones. The notebook provides a step-by-step guide on how to perform web scraping, extract details such as product title, price, seller information, product rating, and additional specifications (if available), and analyze the data.
+Flipkart is a popular e-commerce platform with a vast catalog of products. Extracting specific product information from Flipkart can be valuable for analysis or other purposes. This Jupyter Notebook addresses the problem of web scraping Flipkart's website to extract essential information about Samsung products.The main objective of this notebook is to demonstrate how to scrape product information from Flipkart for Samsung mobile phones. The notebook provides a step-by-step guide on how to perform web scraping, extract details such as product title, price, product rating, and additional specifications (if available), and analyze the data.
 
 ## Requirements
 
